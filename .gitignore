@@ -1,8 +1,8 @@
 # Terraform
 .terraform/
-*.tfstate
-*.tfstate.backup
+.tfstate
+.tfstate.backup
 
 # Logs
-*.log
+.log
 
