@@ -1,9 +1,0 @@
-# Terraform state files
-*.tfstate
-*.tfstate.backup
-
-# Terraform folders
-.terraform/
-
-# Kubernetes / local files
-*.log
