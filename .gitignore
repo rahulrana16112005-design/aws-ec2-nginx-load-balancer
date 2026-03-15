@@ -1,5 +1,11 @@
+# Terraform
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# Logs
 *.log
-*.tmp
-node_modules
-.env
+
+# OS files
 .DS_Store
+Thumbs.db
